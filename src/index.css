@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Helvetica;
+    background: linear-gradient(to right,#339DFF , #0084FF);
+    
+    color: #fff;
+    line-height: 1.8;
+    
+}
+

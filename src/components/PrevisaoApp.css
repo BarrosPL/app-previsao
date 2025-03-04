@@ -1,0 +1,31 @@
+.container{
+    padding-top: 50px;
+    padding-bottom: 80px; 
+    margin: 0 auto;
+}
+
+.inputField {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: black;
+    margin-right: 20px;
+    outline: none;
+    text-align: center;
+}
+
+.inputField:hover{
+    transform: scale(1.15);
+}
+
+.submitBtn{
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+}
+
+.submitBtn:hover{
+    transform: scale(1.15);
+}
